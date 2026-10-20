@@ -1,0 +1,11 @@
+# Binaries
+/mailreader
+/the-mail-reader
+
+# Downloaded emails and generated output
+/emails/
+/job_applications/
+/subjects/
+
+*.log
+.DS_Store
